@@ -3,7 +3,7 @@ public class GrantsClass {
 
 	public static void main(String[] args) {
 
-		System.out.println("su20 is alskjdlksdjf female");
+		System.out.println("Another change just for fun");
 	}
 
 }
